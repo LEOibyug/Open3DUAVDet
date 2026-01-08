@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a786727e-cc2c-4e78-b8fe-61bff08c1323" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="340KkC1YrKDXSC68E786BrPCX55" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\work\9-projects\Experiments\2025\2025-11\1-LAA3D_real\Open3DUAVDet\tools\cfgs\models\uavdet_3d\laa3d_real" />
+      <recent name="G:\work\9-projects\Experiments\2025\2025-11\1-LAA3D_real\Open3DUAVDet\uavdet3d\datasets\laa3d" />
+      <recent name="G:\work\9-projects\Experiments\2025\2025-11\1-LAA3D_real\Open3DUAVDet\tools\cfgs\dataset_configs\uavdet_3d" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a786727e-cc2c-4e78-b8fe-61bff08c1323" name="Default Changelist" comment="" />
+      <created>1760345189529</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1760345189529</updated>
+      <workItem from="1760345190807" duration="7000" />
+      <workItem from="1760345260341" duration="5431000" />
+      <workItem from="1760354166607" duration="1375000" />
+      <workItem from="1760406771010" duration="12314000" />
+      <workItem from="1760423514236" duration="2106000" />
+      <workItem from="1760435553578" duration="13184000" />
+      <workItem from="1760490651838" duration="12418000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1060" y="451" key="FileChooserDialogImpl" timestamp="1760409715938">
+      <screen x="0" y="0" width="2560" height="1392" />
+    </state>
+    <state x="1060" y="451" key="FileChooserDialogImpl/0.0.2560.1392@0.0.2560.1392" timestamp="1760409715938" />
+  </component>
+</project>
